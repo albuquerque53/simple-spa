@@ -43,18 +43,6 @@ nav ul li a:hover {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.content {
-    background-color: white;
-    padding: 20px;
-}
-
-.content.not-found {
-    background-color: red;
-    color: white;
-    padding: 20px;
-}
-
-
 /* ANIMAÇÕES */
 
 body {

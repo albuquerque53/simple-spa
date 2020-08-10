@@ -1,18 +1,3 @@
-const home = {
-
-  data() {
-    return {
-      title: 'My First Single Page Application!'
-    }
-  },
-  
-  template: '<p>This is the first page</p>',
-  
-  mounted() {
-    this.$root.title = this.title;
-  }
-}
-
 const about = {
   
   data() {

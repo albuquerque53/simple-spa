@@ -1,5 +1,19 @@
-# Simple SPA
+# simple-spa
 
-My first SPA developed in **VueJS**
+## Project setup
+```
+npm install
+```
 
-<img src="https://github.com/albuquerque53/simple-spa/blob/master/.github/spa.gif" width="700">
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
